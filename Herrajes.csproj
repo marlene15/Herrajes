@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9F2CA1C5-B567-4D65-9E26-AAD26407C2B9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Herrajes</RootNamespace>
+    <AssemblyName>Herrajes</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.1.0.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarApiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarApiario.Designer.cs">
+      <DependentUpon>AgregarApiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Beneficiarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Beneficiarios.Designer.cs">
+      <DependentUpon>Beneficiarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaDeFierro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusquedaDeFierro.Designer.cs">
+      <DependentUpon>BusquedaDeFierro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoAnimales.Designer.cs">
+      <DependentUpon>CatalogoAnimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoLocalidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoLocalidades.Designer.cs">
+      <DependentUpon>CatalogoLocalidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoEstados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoEstados.Designer.cs">
+      <DependentUpon>CatalogoEstados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoMunicipios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoMunicipios.Designer.cs">
+      <DependentUpon>CatalogoMunicipios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoPrecios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoPrecios.Designer.cs">
+      <DependentUpon>CatalogoPrecios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoRelaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoRelaciones.Designer.cs">
+      <DependentUpon>CatalogoRelaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoSecretarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATALOGOS\CatalogoSecretarios.Designer.cs">
+      <DependentUpon>CatalogoSecretarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CorteDeCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CorteDeCaja.Designer.cs">
+      <DependentUpon>CorteDeCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HerrajesDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HerrajesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGM.Designer.cs">
+      <DependentUpon>ManifestacionPecuariaGM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGMenorA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGMenorA.Designer.cs">
+      <DependentUpon>ManifestacionPecuariaGMenorA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGMenorB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGMenorB.Designer.cs">
+      <DependentUpon>ManifestacionPecuariaGMenorB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegFierroYmarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegFierroYmarca.Designer.cs">
+      <DependentUpon>RegFierroYmarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroDeMovimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDeMovimiento.Designer.cs">
+      <DependentUpon>RegistroDeMovimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REGISTRO DE PATENTES\RegistroDePatenteGmayor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTRO DE PATENTES\RegistroDePatenteGmayor.Designer.cs">
+      <DependentUpon>RegistroDePatenteGmayor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REGISTRO DE PATENTES\RegistroDePatenteGMenorA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTRO DE PATENTES\RegistroDePatenteGMenorA.Designer.cs">
+      <DependentUpon>RegistroDePatenteGMenorA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REGISTRO DE PATENTES\RegistroDePatenteGMenorB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTRO DE PATENTES\RegistroDePatenteGMenorB.Designer.cs">
+      <DependentUpon>RegistroDePatenteGMenorB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReimpresionesDeDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReimpresionesDeDocumentos.Designer.cs">
+      <DependentUpon>ReimpresionesDeDocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECTORES\SelectorDePatente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECTORES\SelectorDePatente.Designer.cs">
+      <DependentUpon>SelectorDePatente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECTORES\SelectorDePersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECTORES\SelectorDePersonas.Designer.cs">
+      <DependentUpon>SelectorDePersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECTORES\SelectorDeSociedad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECTORES\SelectorDeSociedad.Designer.cs">
+      <DependentUpon>SelectorDeSociedad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sociedad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sociedad.Designer.cs">
+      <DependentUpon>Sociedad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tomar_Foto_CamaraWeb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tomar_Foto_CamaraWeb.Designer.cs">
+      <DependentUpon>Tomar_Foto_CamaraWeb.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarApiario.resx">
+      <DependentUpon>AgregarApiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Beneficiarios.resx">
+      <DependentUpon>Beneficiarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusquedaDeFierro.resx">
+      <DependentUpon>BusquedaDeFierro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATALOGOS\CatalogoAnimales.resx">
+      <DependentUpon>CatalogoAnimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATALOGOS\CatalogoLocalidades.resx">
+      <DependentUpon>CatalogoLocalidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATALOGOS\CatalogoEstados.resx">
+      <DependentUpon>CatalogoEstados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATALOGOS\CatalogoMunicipios.resx">
+      <DependentUpon>CatalogoMunicipios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATALOGOS\CatalogoPrecios.resx">
+      <DependentUpon>CatalogoPrecios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATALOGOS\CatalogoRelaciones.resx">
+      <DependentUpon>CatalogoRelaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATALOGOS\CatalogoSecretarios.resx">
+      <DependentUpon>CatalogoSecretarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CorteDeCaja.resx">
+      <DependentUpon>CorteDeCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGM.resx">
+      <DependentUpon>ManifestacionPecuariaGM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGMenorA.resx">
+      <DependentUpon>ManifestacionPecuariaGMenorA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANIFESTACIONES PECUARIA\ManifestacionPecuariaGMenorB.resx">
+      <DependentUpon>ManifestacionPecuariaGMenorB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegFierroYmarca.resx">
+      <DependentUpon>RegFierroYmarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroDeMovimiento.resx">
+      <DependentUpon>RegistroDeMovimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REGISTRO DE PATENTES\RegistroDePatenteGmayor.resx">
+      <DependentUpon>RegistroDePatenteGmayor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REGISTRO DE PATENTES\RegistroDePatenteGMenorA.resx">
+      <DependentUpon>RegistroDePatenteGMenorA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REGISTRO DE PATENTES\RegistroDePatenteGMenorB.resx">
+      <DependentUpon>RegistroDePatenteGMenorB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReimpresionesDeDocumentos.resx">
+      <DependentUpon>ReimpresionesDeDocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECTORES\SelectorDePatente.resx">
+      <DependentUpon>SelectorDePatente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECTORES\SelectorDePersonas.resx">
+      <DependentUpon>SelectorDePersonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECTORES\SelectorDeSociedad.resx">
+      <DependentUpon>SelectorDeSociedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sociedad.resx">
+      <DependentUpon>Sociedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tomar_Foto_CamaraWeb.resx">
+      <DependentUpon>Tomar_Foto_CamaraWeb.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="HerrajesDataSet.xsc">
+      <DependentUpon>HerrajesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HerrajesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HerrajesDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HerrajesDataSet.xss">
+      <DependentUpon>HerrajesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

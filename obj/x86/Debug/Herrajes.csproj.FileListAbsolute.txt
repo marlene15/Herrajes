@@ -1,0 +1,72 @@
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Principal.resources
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Properties.Resources.resources
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\bin\Debug\Herrajes.exe
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\bin\Debug\Herrajes.pdb
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.exe
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.pdb
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Inicio.resources
+c:\users\marlene\documents\visual studio 2010\Projects\Herrajes\Herrajes\bin\Debug\Herrajes.exe.config
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.SelectorDePersonas.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Registro.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.SelectorDeSociedad.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Sociedad.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegFierroYmarca.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Beneficiarios.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.SelectorDePatente.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDeMovimiento.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoMunicipios.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoLocalidades.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoPrecios.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoRelaciones.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoSecretarios.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.BusquedaDeFierro.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CorteDeCaja.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ReimpresionesDeDocumentos.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDePatenteGmayor.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDePatenteGMenorA.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDePatenteGMenorB.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ManifestacionPecuariaGM.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ManifestacionPecuariaGMenorA.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.AgregarApiario.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ManifestacionPecuariaGMenorB.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoEstados.resources
+C:\Users\Marlene\Documents\Visual Studio 2010\Projects\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Tomar_Foto_CamaraWeb.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\bin\Debug\Herrajes.exe.config
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.exe
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.pdb
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\bin\Debug\Herrajes.exe
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\bin\Debug\Herrajes.pdb
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.AgregarApiario.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Beneficiarios.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.BusquedaDeFierro.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoLocalidades.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoEstados.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoMunicipios.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoPrecios.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoRelaciones.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CatalogoSecretarios.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.CorteDeCaja.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Inicio.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ManifestacionPecuariaGM.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ManifestacionPecuariaGMenorA.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ManifestacionPecuariaGMenorB.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Principal.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Properties.Resources.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegFierroYmarca.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Registro.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDeMovimiento.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDePatenteGmayor.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDePatenteGMenorA.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.RegistroDePatenteGMenorB.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.ReimpresionesDeDocumentos.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.SelectorDePatente.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.SelectorDePersonas.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.SelectorDeSociedad.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Sociedad.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\Herrajes.Tomar_Foto_CamaraWeb.resources
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marlene\Documents\Docs\Respaldos de Herrajes\Respaldo Herrajes 17-09-2012\Herrajes\Herrajes\obj\x86\Debug\GenerateResource.write.1.tlog
